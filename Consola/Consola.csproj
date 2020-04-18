@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Ficha15\Ficha15.csproj" />
+    <ProjectReference Include="..\Ficha15\F15Vetores.csproj" />
   </ItemGroup>
 
 </Project>
