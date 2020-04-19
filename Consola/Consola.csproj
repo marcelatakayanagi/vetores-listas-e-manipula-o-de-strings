@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Ficha15\F15Vetores.csproj" />
+    <ProjectReference Include="..\Lists\F16Listas.csproj" />
   </ItemGroup>
 
 </Project>

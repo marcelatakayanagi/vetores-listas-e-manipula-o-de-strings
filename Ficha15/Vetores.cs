@@ -181,14 +181,14 @@ namespace F15Vetores
             {
                 if ( vector[i] % 2 == 0)
                 {
-                    odds += $"{vector[i]} ";
+                    evens += $"{vector[i]} ";
                 }
                 else
                 {
-                    evens += $"{vector[i]} ";
+                    odds += $"{vector[i]} ";
                 }
             }
-            Console.WriteLine($"Os números pares são: {odds} \n Os números ímpares são: {evens}");
+            Console.WriteLine($"Os números pares são: {evens} \n Os números ímpares são: {odds}");
         }
         #endregion
 
